@@ -1,3 +1,7 @@
+# DS3500 - Advanced Programming with Data
+
+Repository for work from DS3500 - Advanced Programming with Data
+
 1. **Dashboards:**  
    The Stock Dashboard is a beginner-friendly tool designed to help users learn about stocks through an intuitive interface. Users start by selecting a company of their choice and choosing a date range for the stock graph, which displays historical data from 2019 onwards. Additionally, the dashboard features a recommendation graph, which provides insights based on various factors, offering users guidance on possible trade options. This project is ideal for individuals new to the stock market, providing them with foundational tools and visualizations to make informed decisions.
 
